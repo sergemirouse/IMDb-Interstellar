@@ -27,7 +27,7 @@ export default function App() {
             </View>
           </View>
         </View>
-        <StatusBar style={{ backgroundColor: "white" }} />
+        <StatusBar StatusBarStyle="light-content" />
       </View>
     </SafeAreaView>
   );
